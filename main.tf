@@ -3,7 +3,7 @@ terraform {
 }
 
 provider "aws" {
-   # MODIFY this line to look for 2.27.0 or greater, also remove lab 1 instance
+   # MODIFY this line to look for 2.27.0 or greater, also remove lab 1 instance, more test
   version = ">= 2.27.0"
 }
 
